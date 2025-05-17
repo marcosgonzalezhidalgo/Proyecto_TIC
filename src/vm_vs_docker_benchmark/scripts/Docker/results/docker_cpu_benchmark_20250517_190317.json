@@ -1,0 +1,10 @@
+{
+  "benchmark_output": "sysbench 1.0.20 (using system LuaJIT 2.1.0-beta3)\n\nRunning the test with following options:\nNumber of threads: 1\nInitializing random number generator from current time\n\n\nPrime numbers limit: 20000\n\nInitializing worker threads...\n\nThreads started!\n\nCPU speed:\n    events per second:   612.63\n\nGeneral statistics:\n    total time:                          10.0009s\n    total number of events:              6128\n\nLatency (ms):\n         min:                                    1.58\n         avg:                                    1.63\n         max:                                    2.22\n         95th percentile:                        1.73\n         sum:                                 9997.44\n\nThreads fairness:\n    events (avg/stddev):           6128.0000/0.00\n    execution time (avg/stddev):   9.9974/0.00\n\n",
+  "metrics": {
+    "cpu_percent": 0.0,
+    "memory_percent": 11.3,
+    "execution_time_sec": 10.04
+  },
+  "timestamp": "20250517_190317",
+  "source": "docker"
+}

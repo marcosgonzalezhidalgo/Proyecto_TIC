@@ -1,0 +1,8 @@
+{
+  "test_type": "cpu_stress",
+  "cpu_percent": 0.05,
+  "memory_percent": 11.45,
+  "execution_time_sec": 10.01,
+  "source": "docker",
+  "timestamp": "20250517_183041"
+}
