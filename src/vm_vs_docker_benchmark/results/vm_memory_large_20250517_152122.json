@@ -1,0 +1,8 @@
+{
+  "test_type": "memory_large",
+  "cpu_percent": 0.35,
+  "memory_percent": 20.3,
+  "execution_time_sec": 1.28,
+  "source": "VM",
+  "timestamp": "20250517_152122"
+}

@@ -1,0 +1,8 @@
+{
+  "test_type": "memory_stress",
+  "cpu_percent": 0.85,
+  "memory_percent": 19.9,
+  "execution_time_sec": 0.64,
+  "source": "VM",
+  "timestamp": "20250517_151324"
+}
