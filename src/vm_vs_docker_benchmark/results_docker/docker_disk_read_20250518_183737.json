@@ -1,0 +1,8 @@
+{
+  "test_type": "disk_read",
+  "cpu_percent": 99.58,
+  "memory_mb": 7.8,
+  "execution_time_sec": 1.29,
+  "source": "Docker",
+  "timestamp": "20250518_183737"
+}

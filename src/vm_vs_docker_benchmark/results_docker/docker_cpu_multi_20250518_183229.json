@@ -1,0 +1,8 @@
+{
+  "test_type": "cpu_multi",
+  "cpu_percent": 399.75,
+  "memory_mb": 5.94,
+  "execution_time_sec": 10.01,
+  "source": "Docker",
+  "timestamp": "20250518_183229"
+}

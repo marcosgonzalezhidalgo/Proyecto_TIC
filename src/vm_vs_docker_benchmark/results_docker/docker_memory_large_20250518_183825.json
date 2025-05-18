@@ -1,0 +1,8 @@
+{
+  "test_type": "memory_large",
+  "cpu_percent": 100.0,
+  "memory_mb": 5.87,
+  "execution_time_sec": 1.33,
+  "source": "Docker",
+  "timestamp": "20250518_183825"
+}

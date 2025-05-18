@@ -1,0 +1,8 @@
+{
+  "test_type": "network_download",
+  "cpu_percent": 29.88,
+  "memory_mb": 7.43,
+  "execution_time_sec": 0.1,
+  "source": "Docker",
+  "timestamp": "20250518_183505"
+}
