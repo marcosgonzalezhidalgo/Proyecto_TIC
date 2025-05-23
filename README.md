@@ -110,6 +110,5 @@ Los scripts de configuración y prueba están disponibles en las carpetas `vm/` 
 - [Docker Documentation](https://docs.docker.com/)
 - [VirtualBox Manual](https://www.virtualbox.org/manual/)
 - [Linux Performance Tools](http://www.brendangregg.com/linuxperf.html)
-- [Documento del trabajo](https://docs.google.com/document/d/1JhooNJ_HrGNAijPPN2APUaA75y6DJ5ES/edit?usp=sharing&ouid=103461971257993234604&rtpof=true&sd=true)
 
 
