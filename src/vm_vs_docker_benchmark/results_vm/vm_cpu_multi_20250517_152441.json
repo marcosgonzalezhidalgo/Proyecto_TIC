@@ -1,8 +1,0 @@
-{
-  "test_type": "cpu_multi",
-  "cpu_percent": 0.55,
-  "memory_percent": 19.85,
-  "execution_time_sec": 10.01,
-  "source": "VM",
-  "timestamp": "20250517_152441"
-}

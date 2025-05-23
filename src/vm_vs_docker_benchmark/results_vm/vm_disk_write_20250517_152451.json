@@ -1,8 +1,0 @@
-{
-  "test_type": "disk_write",
-  "cpu_percent": 0.1,
-  "memory_percent": 20.1,
-  "execution_time_sec": 2.03,
-  "source": "VM",
-  "timestamp": "20250517_152451"
-}

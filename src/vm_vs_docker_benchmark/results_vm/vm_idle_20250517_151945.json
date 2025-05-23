@@ -1,8 +1,0 @@
-{
-  "test_type": "idle",
-  "cpu_percent": 0.15,
-  "memory_percent": 20.2,
-  "execution_time_sec": 10.0,
-  "source": "VM",
-  "timestamp": "20250517_151945"
-}

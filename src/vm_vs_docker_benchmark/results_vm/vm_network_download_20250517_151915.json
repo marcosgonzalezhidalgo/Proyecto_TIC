@@ -1,8 +1,0 @@
-{
-  "test_type": "network_download",
-  "cpu_percent": 0.5,
-  "memory_percent": 20.4,
-  "execution_time_sec": 0.1,
-  "source": "VM",
-  "timestamp": "20250517_151915"
-}

@@ -1,8 +1,0 @@
-{
-  "test_type": "process_spawn",
-  "cpu_percent": 0.45,
-  "memory_percent": 20.45,
-  "execution_time_sec": 5.07,
-  "source": "VM",
-  "timestamp": "20250517_151922"
-}
