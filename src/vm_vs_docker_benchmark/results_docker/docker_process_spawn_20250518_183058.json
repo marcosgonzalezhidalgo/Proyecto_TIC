@@ -1,8 +1,0 @@
-{
-  "test_type": "process_spawn",
-  "cpu_percent": 1.9,
-  "memory_mb": 33.71,
-  "execution_time_sec": 5.04,
-  "source": "Docker",
-  "timestamp": "20250518_183058"
-}

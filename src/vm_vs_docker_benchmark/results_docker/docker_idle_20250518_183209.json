@@ -1,8 +1,0 @@
-{
-  "test_type": "idle",
-  "cpu_percent": 0.0,
-  "memory_mb": 5.71,
-  "execution_time_sec": 10.01,
-  "source": "Docker",
-  "timestamp": "20250518_183209"
-}

@@ -1,0 +1,7 @@
+psutil
+numpy
+speedtest-cli
+pandas
+matplotlib
+seaborn
+notebook
