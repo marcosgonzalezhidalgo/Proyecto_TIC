@@ -1,6 +1,6 @@
 # 🧪 Comparativa de Rendimiento entre Máquinas Virtuales y Docker
 
-Este repositorio contiene el código, scripts y análisis asociados a un trabajo de investigación cuyo objetivo es **comparar el rendimiento de máquinas virtuales (VMs) y contenedores Docker** en distintos escenarios prácticos. El estudio analiza el consumo de CPU, memoria y tiempos de ejecución en cada tecnología, con el fin de evaluar cuál ofrece mejor eficiencia en entornos controlados y reales.
+Este repositorio contiene el código, scripts y análisis asociados a un trabajo de investigación cuyo objetivo es comparar el rendimiento de máquinas virtuales (VMs) y contenedores Docker en distintos escenarios prácticos. El estudio analiza el consumo de CPU, memoria y tiempos de ejecución en cada tecnología, con el fin de evaluar cuál ofrece mejor eficiencia en entornos controlados y reales.
 
 ---
 
@@ -88,6 +88,13 @@ Las métricas se almacenan en JSON con información como:
 - Memoria máxima utilizada (MB)
 - Tiempo total de ejecución (s)
 
+Los resultados de cada entorno fueron los siguientes:
+
+[GitHub codespaces Docker](src/vm_vs_docker_benchmark/notebooks/docker_github_results_notebook.ipynb)
+[VisualStudio Code Docker](src/vm_vs_docker_benchmark/notebooks/docker_vsc_results_notebook.ipynb)
+[Ubuntu en máquina virtual](src/vm_vs_docker_benchmark/notebooks/vm_ubuntu_results_notebook.ipynb)
+[Windows 10 en máquina virtual](src/vm_vs_docker_benchmark/notebooks/vm_windows10_results_notebook.ipynb)
+
 ---
 
 ## 📊 Resultados destacados
@@ -126,10 +133,10 @@ Las métricas se almacenan en JSON con información como:
 
 ## 📈 Conclusiones
 
-- Docker ofrece **mejor rendimiento general**, menor consumo de recursos y ejecución más rápida en la mayoría de los casos.
-- Las **máquinas virtuales presentan mayor sobrecarga**, especialmente en Windows, pero ofrecen un mejor aislamiento del sistema.
-- Para tareas de desarrollo, pruebas o despliegues donde el rendimiento es clave, **Docker es preferible**, siempre que el aislamiento completo no sea una necesidad.
-- La elección entre Docker y VMs **debe considerar el tipo de carga, la necesidad de aislamiento y la portabilidad** deseada.
+- Docker ofrece mejor rendimiento general, menor consumo de recursos y ejecución más rápida en la mayoría de los casos.
+- Las máquinas virtuales presentan mayor sobrecarga, especialmente en Windows, pero ofrecen un mejor aislamiento del sistema.
+- Para tareas de desarrollo, pruebas o despliegues donde el rendimiento es clave, Docker es preferible, siempre que el aislamiento completo no sea una necesidad.
+- La elección entre Docker y VMs debe considerar el tipo de carga, la necesidad de aislamiento y la portabilidad deseada.
 
 ---
 
