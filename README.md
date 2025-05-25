@@ -135,7 +135,7 @@ Las métricas se almacenan en JSON con información como:
 
 ## 📚 Recursos empleados
 
-- [Docker]([https://docs.docker.com/](https://www.docker.com/products/docker-desktop/))
+- [Docker]([https://docs.docker.com/](https://www.docker.com/products/docker-desktop/)
 - [VirtualBox](https://www.virtualbox.org)
 - [Ubuntu](https://ubuntu.com/download/desktop)
 - [Windows ISO](https://www.microsoft.com/es-es/software-download/windows10ISO)
